@@ -41,7 +41,7 @@ const HeroSection = () => {
             Diego M. <span className="gradient-text">Cezar</span>
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground font-light">
-            Game Designer · Front-End Developer · Instructor
+            Game Designer · Full-Stack Developer · Instructor · Ex-IBM
           </p>
         </motion.div>
 
